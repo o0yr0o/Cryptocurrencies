@@ -5,4 +5,3 @@ The purpose of this project is to create a report that includes what cryptocurre
 
 The `crypto_data.csv` was retrieved from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist).
 
-## Preprocessing
